@@ -3,3 +3,6 @@
 > Status do projeto: Em Desenvolvimento
 
 Pagina criada com HTML5 e CSS3
+...
+node app.js
+...
